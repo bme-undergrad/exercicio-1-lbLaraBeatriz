@@ -1,4 +1,4 @@
-function t = exercicio1(func, func_d,cx0)  
+function t = exercicio1(func, func_d,x0)  
 
 % nao alterar: inicio
 es = 0.01;
